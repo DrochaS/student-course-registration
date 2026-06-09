@@ -1,0 +1,5 @@
+S001|Mary Wanjiku|mary@example.com|0711111111
+S002|John Mwangi|john@example.com|0712345678
+S003|Alice Otieno|alice@example.com|0722222222
+S004|David Kiprop Chepkwony|david.k@domain.com|0733445566
+S005|Grace Amina Omari|grace.amina@outlook.com|0799887766

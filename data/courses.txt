@@ -1,0 +1,5 @@
+PY101|Python Fundamentals|Mr. Joseph|2
+WD201|Web Development|Ms. Akinyi|15
+DB301|Database Systems|Mr. Kamau|30
+DS401|Data Science & AI|Dr. Faith|5
+UX102|UI/UX Design Basics|Madam Sophia|10
